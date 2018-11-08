@@ -1,0 +1,31 @@
+== Forward
+
+In 1767,
+a book was published by Samuel Newton advancing many
+sentiments critical of the Society of Friends,
+and more particularly attacking the principles propounded in
+Robert Barclay`'s [.book-title]#Apology for the True Christian Divinity.#
+In response to this publication,
+Joseph Phipps took up the pen in 1773 to clear
+the Society from many unjust and untrue charges,
+and to defend the truths of the gospel as set forth by early Friends.
+His refutation, which he entitled [.book-title]#The Original and Present State of Man,#
+was thorough and convincing, clarifying many of the leading principles of the Quakers,
+and exposing and countering the various errors of his opponent.
+
+This edition of [.book-title]#The Original and Present State of Man,#
+is an attempt to retain and carefully modernize
+the chief doctrinal parts of the original work,
+while removing a multitude of unnecessary citations and
+wordy exchanges between the two authors.
+Because much of Phipps`' original publication was written in
+the form of a point-by-point rebuttal of Newton`'s criticisms,
+I have taken significant liberties in editing and organizing the material so
+that his arguments are presented smoothly and clearly to the modern reader.
+The unedited version is available in [.book-title]#Friend`'s Library,# volume 10.
+
+[.signed-section-signature]
+Jason Henderson
+
+[.signed-section-context-close]
+October 2016
