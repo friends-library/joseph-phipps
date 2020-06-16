@@ -5,6 +5,9 @@ corrupt and dangerous positions that some have publicly avowed
 respecting true righteousness and sanctification.
 Many have plainly taught or implied:
 
+[.numbered-group]
+====
+
 [.numbered]
 1+++.+++ That man, at the same time he is actually unrighteous in himself,
 is righteous in Christ.
@@ -27,6 +30,8 @@ showing the states of men contrary to what they are in reality.
 that he is holy by imputation, even while he is ruled by the author of pollution,
 the adversary of all holiness;
 and that he is acting in the will of God while he is doing the works of the devil.
+
+====
 
 Much to the contrary we read,
 "`Do you not know that to whom you present yourselves slaves to obey,
