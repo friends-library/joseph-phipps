@@ -1,4 +1,4 @@
 /* fix trailing single page with ONLY footnote */
-.trim--m #ch-2 h2 {
-  margin-top: 2.0in;
+.trim--m .chapter-3 {
+  margin-top: 2in;
 }
